@@ -62,6 +62,8 @@ Apply the get_dummies() code to the data frame and the data frame ends up having
 
 #### How does train and test work and what is it doing to the data?
 
+<p>Train data helps the model prediction and develops an algorithm of 70% or more of the data. Big data sets use the training method to get the best results. Testing helps the model to check the prediction rate by taking a small portion of the data and testing the model whether it works efficiently.  </p>
+
 ### Standard Scaler Section
 
 #### How does the Standard scaler work and what is it doing to the data? 
